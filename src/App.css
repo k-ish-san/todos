@@ -53,3 +53,7 @@ h1{
 .actions > button{
   color: black;
 }
+#head{
+  margin-bottom: 10px;
+  font-variant: smallcaps;
+}
