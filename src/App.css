@@ -1,6 +1,6 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' , Arial , sans-serif;
-  background-color: #483a3a;
+  background-color: emerald;
   box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.6);
   padding: 20px;
   
@@ -51,7 +51,7 @@ h1{
 }
 
 .actions > button{
-  color: black;
+  color: green;
 }
 #head{
   margin-bottom: 10px;
